@@ -34,9 +34,7 @@ class HomePage extends StatelessWidget {
           IconButton(
             icon: const Icon(Icons.add),
             tooltip: "You Completed Task's",
-            onPressed: () {
-              return null;
-            },
+            onPressed: () {},
           )
         ],
       ),
